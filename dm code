@@ -1,1 +1,9 @@
-Sample SAS code
+/******************************************/
+/* this is sample display manager code;   */
+/******************************************/
+
+*code to clear log;
+dm "log;clear;";
+
+*code to clear output window;
+dm "output;clear;";
